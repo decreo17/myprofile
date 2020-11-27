@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -14,6 +13,12 @@
 Mini Profile Template
 https://templatemo.com/tm-530-mini-profile
 -->
+  <script>
+  function submittest()
+  {
+    
+  }
+  </script>
   </head>
   <body>
     <!-- Welcome Section -->
@@ -203,6 +208,8 @@ https://templatemo.com/tm-530-mini-profile
                 <button
                   type="submit"
                   class="btn tm-btn-submit rounded-0 text-white"
+                  id="submittest"
+                  onclick="submittest()"
                 >
                   Submit
                 </button>
