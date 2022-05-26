@@ -67,6 +67,10 @@ a:hover {
   background-color: #676767;
 }
 
+.color-hsbc {
+  background-color: #DB0011;
+}
+
 /*
   Welcome section
 */
@@ -86,7 +90,7 @@ a:hover {
 }
 
 .tm-brand-container {
-  padding: 75px 110px;
+  padding: 75px 50px; /*Edited*/
 }
 
 .tm-brand-name {
@@ -191,6 +195,10 @@ a:hover {
 
 .tm-text-dark-gray {
   color: #676767;
+}
+
+.text-hsbc {
+  color: #DB0011;
 }
 
 .tm-title-small {
